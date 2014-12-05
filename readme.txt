@@ -7,4 +7,4 @@ today is friday
 today is friday 
 >>>>>>> feature_X
 Git has a mutable index called stage
-Git tracks changes
+Git tracks changes of files
