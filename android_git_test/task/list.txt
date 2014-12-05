@@ -10,3 +10,5 @@ ulexzhong ulexzhong
 add by hesterhe test on dev
 
 adb by Hesterhe on dev in 2014
+
+add by jackiewang on android_test_git in 2014
